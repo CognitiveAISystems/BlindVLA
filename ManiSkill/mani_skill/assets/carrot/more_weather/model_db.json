@@ -1,0 +1,92 @@
+{
+  "001_clear_night": {
+    "name": "clear night",
+    "sign": "clear night",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "002_cloudy": {
+    "name": "cloudy",
+    "sign": "cloudy",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "003_rainy": {
+    "name": "rainy",
+    "sign": "rainy",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "004_snowing": {
+    "name": "snowing",
+    "sign": "snowing",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "005_storm": {
+    "name": "storm",
+    "sign": "storm",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "006_sunny": {
+    "name": "sunny",
+    "sign": "sunny",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "007_sunrise": {
+    "name": "sunrise",
+    "sign": "sunrise",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "008_windy": {
+    "name": "windy",
+    "sign": "windy",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "009_windy_and_cloudy": {
+    "name": "windy and cloudy",
+    "sign": "windy and cloudy",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  }
+}

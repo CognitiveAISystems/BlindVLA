@@ -1,0 +1,138 @@
+# ------------------------------
+# OS and Editor junk
+# ------------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ------------------------------
+# Python and Jupyter
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.so
+*.egg
+*.egg-info/
+.eggs/
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+.jupyter/
+.mypy_cache/
+.pytest_cache/
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.t7
+*.weights
+
+# ------------------------------
+# Training Artifacts
+# ------------------------------
+wandb/
+tensorboard/
+tb_logs/
+tb/
+mlruns/
+lightning_logs/
+artifacts/
+cache/
+.caches/
+.cached/
+tmp/
+temp/
+temp_data/
+*.cache
+*.npz
+*.npy
+*.csv.tmp
+*.json.tmp
+
+# ------------------------------
+# Dataset and Data Dumps
+# ------------------------------
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
+*.gz
+*.bz2
+*.xz
+
+# ------------------------------
+# Videos and Media
+# ------------------------------
+**/*.mp4
+**/*.avi
+**/*.mov
+**/*.mkv
+**/*.webm
+
+# ------------------------------
+# Large binary / model formats
+# ------------------------------
+*.onnx
+*.pb
+*.tflite
+*.engine
+*.plan
+*.mlmodel
+*.nemo
+*.safetensors
+
+# ------------------------------
+# Virtual environments and containers
+# ------------------------------
+.env
+.venv
+venv/
+env/
+ENV/
+Pipfile.lock
+poetry.lock
+conda-meta/
+*.conda
+*.env
+
+# ------------------------------
+# Build and dist
+# ------------------------------
+build/
+dist/
+*.spec
+
+# ------------------------------
+# Miscellaneous
+# ------------------------------
+nohup.out
+*.log
+*.bak
+*.tmp
+*.old
+*.orig
+*.rej
+*.out
+
+# ------------------------------
+# Ignore local configs / secrets
+# ------------------------------
+config.local.*
+config_dev.*
+config_debug.*
+secret_*.*
+*.secret
+*.key
+*.pem
+*.crt
+*.der

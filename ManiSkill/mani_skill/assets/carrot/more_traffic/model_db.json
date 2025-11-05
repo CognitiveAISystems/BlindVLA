@@ -1,0 +1,242 @@
+{
+  "001_aheadonly": {
+    "name": "ahead only sign",
+    "sign": "ahead only",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "002_fallingrocks": {
+    "name": "falling rocks sign",
+    "sign": "falling rocks",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "003_loosechippings": {
+    "name": "loose chippings sign",
+    "sign": "loose chippings",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "004_maxspeed": {
+    "name": "max speed sign",
+    "sign": "max speed",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "005_minimumspeed": {
+    "name": "minimum speed sign",
+    "sign": "minimum speed",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "006_noUturn": {
+    "name": "no U-turn sign",
+    "sign": "no U-turn",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "007_noentry": {
+    "name": "no entry sign",
+    "sign": "no entry",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "008_noleftturn": {
+    "name": "no left turn sign",
+    "sign": "no left turn",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "009_noovertaking": {
+    "name": "no overtaking sign",
+    "sign": "no overtaking",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "010_norightrurn": {
+    "name": "no right turn sign",
+    "sign": "no right turn",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "011_nostopping": {
+    "name": "no stopping sign",
+    "sign": "no stopping",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "012_nothroughroad": {
+    "name": "no through road sign",
+    "sign": "no through road",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "013_nowaiting": {
+    "name": "no waiting sign",
+    "sign": "no waiting",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "014_roadnarrowsright": {
+    "name": "road narrows right sign",
+    "sign": "road narrows right",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "015_roadworks": {
+    "name": "road works sign",
+    "sign": "road works",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "016_roundabout": {
+    "name": "roundabout sign",
+    "sign": "roundabout",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "017_sharproutedeviation": {
+    "name": "sharp route deviation sign",
+    "sign": "sharp route deviation",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "018_steepdownwards": {
+    "name": "steep downwards sign",
+    "sign": "steep downwards",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "019_steepupwards": {
+    "name": "steep upwards sign",
+    "sign": "steep upwards",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "020_stopgiveway": {
+    "name": "stop give way sign",
+    "sign": "stop give way",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "021_turnleftahead": {
+    "name": "turn left ahead sign",
+    "sign": "turn left ahead",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "022_unevenroad": {
+    "name": "uneven road sign",
+    "sign": "uneven road",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "023_wildanimals": {
+    "name": "wild animals sign",
+    "sign": "wild animals",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "024_yield": {
+    "name": "yield sign",
+    "sign": "yield",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  }
+}

@@ -1,0 +1,1234 @@
+{
+  "001_trapezoid_black": {
+    "name": "black trapezoid",
+    "shape": "trapezoid",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "002_trapezoid_red": {
+    "name": "red trapezoid",
+    "shape": "trapezoid",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "003_trapezoid_green": {
+    "name": "green trapezoid",
+    "shape": "trapezoid",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "004_trapezoid_blue": {
+    "name": "blue trapezoid",
+    "shape": "trapezoid",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "005_trapezoid_orange": {
+    "name": "orange trapezoid",
+    "shape": "trapezoid",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "006_trapezoid_purple": {
+    "name": "purple trapezoid",
+    "shape": "trapezoid",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "007_trapezoid_yellow": {
+    "name": "yellow trapezoid",
+    "shape": "trapezoid",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "008_trapezoid_brown": {
+    "name": "brown trapezoid",
+    "shape": "trapezoid",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "009_triangle_black": {
+    "name": "black triangle",
+    "shape": "triangle",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "010_triangle_red": {
+    "name": "red triangle",
+    "shape": "triangle",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "011_triangle_green": {
+    "name": "green triangle",
+    "shape": "triangle",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "012_triangle_blue": {
+    "name": "blue triangle",
+    "shape": "triangle",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "013_triangle_orange": {
+    "name": "orange triangle",
+    "shape": "triangle",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "014_triangle_purple": {
+    "name": "purple triangle",
+    "shape": "triangle",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "015_triangle_yellow": {
+    "name": "yellow triangle",
+    "shape": "triangle",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "016_triangle_brown": {
+    "name": "brown triangle",
+    "shape": "triangle",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "017_right_triangle_black": {
+    "name": "black right_triangle",
+    "shape": "right_triangle",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "018_right_triangle_red": {
+    "name": "red right_triangle",
+    "shape": "right_triangle",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "019_right_triangle_green": {
+    "name": "green right_triangle",
+    "shape": "right_triangle",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "020_right_triangle_blue": {
+    "name": "blue right_triangle",
+    "shape": "right_triangle",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "021_right_triangle_orange": {
+    "name": "orange right_triangle",
+    "shape": "right_triangle",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "022_right_triangle_purple": {
+    "name": "purple right_triangle",
+    "shape": "right_triangle",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "023_right_triangle_yellow": {
+    "name": "yellow right_triangle",
+    "shape": "right_triangle",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "024_right_triangle_brown": {
+    "name": "brown right_triangle",
+    "shape": "right_triangle",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "025_rectangle_black": {
+    "name": "black rectangle",
+    "shape": "rectangle",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "026_rectangle_red": {
+    "name": "red rectangle",
+    "shape": "rectangle",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "027_rectangle_green": {
+    "name": "green rectangle",
+    "shape": "rectangle",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "028_rectangle_blue": {
+    "name": "blue rectangle",
+    "shape": "rectangle",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "029_rectangle_orange": {
+    "name": "orange rectangle",
+    "shape": "rectangle",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "030_rectangle_purple": {
+    "name": "purple rectangle",
+    "shape": "rectangle",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "031_rectangle_yellow": {
+    "name": "yellow rectangle",
+    "shape": "rectangle",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "032_rectangle_brown": {
+    "name": "brown rectangle",
+    "shape": "rectangle",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "033_square_black": {
+    "name": "black square",
+    "shape": "square",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "034_square_red": {
+    "name": "red square",
+    "shape": "square",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "035_square_green": {
+    "name": "green square",
+    "shape": "square",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "036_square_blue": {
+    "name": "blue square",
+    "shape": "square",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "037_square_orange": {
+    "name": "orange square",
+    "shape": "square",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "038_square_purple": {
+    "name": "purple square",
+    "shape": "square",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "039_square_yellow": {
+    "name": "yellow square",
+    "shape": "square",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "040_square_brown": {
+    "name": "brown square",
+    "shape": "square",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "041_parallelogram_black": {
+    "name": "black parallelogram",
+    "shape": "parallelogram",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "042_parallelogram_red": {
+    "name": "red parallelogram",
+    "shape": "parallelogram",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "043_parallelogram_green": {
+    "name": "green parallelogram",
+    "shape": "parallelogram",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "044_parallelogram_blue": {
+    "name": "blue parallelogram",
+    "shape": "parallelogram",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "045_parallelogram_orange": {
+    "name": "orange parallelogram",
+    "shape": "parallelogram",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "046_parallelogram_purple": {
+    "name": "purple parallelogram",
+    "shape": "parallelogram",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "047_parallelogram_yellow": {
+    "name": "yellow parallelogram",
+    "shape": "parallelogram",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "048_parallelogram_brown": {
+    "name": "brown parallelogram",
+    "shape": "parallelogram",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "049_pentagon_black": {
+    "name": "black pentagon",
+    "shape": "pentagon",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "050_pentagon_red": {
+    "name": "red pentagon",
+    "shape": "pentagon",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "051_pentagon_green": {
+    "name": "green pentagon",
+    "shape": "pentagon",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "052_pentagon_blue": {
+    "name": "blue pentagon",
+    "shape": "pentagon",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "053_pentagon_orange": {
+    "name": "orange pentagon",
+    "shape": "pentagon",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "054_pentagon_purple": {
+    "name": "purple pentagon",
+    "shape": "pentagon",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "055_pentagon_yellow": {
+    "name": "yellow pentagon",
+    "shape": "pentagon",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "056_pentagon_brown": {
+    "name": "brown pentagon",
+    "shape": "pentagon",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "057_hexagon_black": {
+    "name": "black hexagon",
+    "shape": "hexagon",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "058_hexagon_red": {
+    "name": "red hexagon",
+    "shape": "hexagon",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "059_hexagon_green": {
+    "name": "green hexagon",
+    "shape": "hexagon",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "060_hexagon_blue": {
+    "name": "blue hexagon",
+    "shape": "hexagon",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "061_hexagon_orange": {
+    "name": "orange hexagon",
+    "shape": "hexagon",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "062_hexagon_purple": {
+    "name": "purple hexagon",
+    "shape": "hexagon",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "063_hexagon_yellow": {
+    "name": "yellow hexagon",
+    "shape": "hexagon",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "064_hexagon_brown": {
+    "name": "brown hexagon",
+    "shape": "hexagon",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "065_heptagon_black": {
+    "name": "black heptagon",
+    "shape": "heptagon",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "066_heptagon_red": {
+    "name": "red heptagon",
+    "shape": "heptagon",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "067_heptagon_green": {
+    "name": "green heptagon",
+    "shape": "heptagon",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "068_heptagon_blue": {
+    "name": "blue heptagon",
+    "shape": "heptagon",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "069_heptagon_orange": {
+    "name": "orange heptagon",
+    "shape": "heptagon",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "070_heptagon_purple": {
+    "name": "purple heptagon",
+    "shape": "heptagon",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "071_heptagon_yellow": {
+    "name": "yellow heptagon",
+    "shape": "heptagon",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "072_heptagon_brown": {
+    "name": "brown heptagon",
+    "shape": "heptagon",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "073_circle_black": {
+    "name": "black circle",
+    "shape": "circle",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "074_circle_red": {
+    "name": "red circle",
+    "shape": "circle",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "075_circle_green": {
+    "name": "green circle",
+    "shape": "circle",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "076_circle_blue": {
+    "name": "blue circle",
+    "shape": "circle",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "077_circle_orange": {
+    "name": "orange circle",
+    "shape": "circle",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "078_circle_purple": {
+    "name": "purple circle",
+    "shape": "circle",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "079_circle_yellow": {
+    "name": "yellow circle",
+    "shape": "circle",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "080_circle_brown": {
+    "name": "brown circle",
+    "shape": "circle",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "081_heart_black": {
+    "name": "black heart",
+    "shape": "heart",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "082_heart_red": {
+    "name": "red heart",
+    "shape": "heart",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "083_heart_green": {
+    "name": "green heart",
+    "shape": "heart",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "084_heart_blue": {
+    "name": "blue heart",
+    "shape": "heart",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "085_heart_orange": {
+    "name": "orange heart",
+    "shape": "heart",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "086_heart_purple": {
+    "name": "purple heart",
+    "shape": "heart",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "087_heart_yellow": {
+    "name": "yellow heart",
+    "shape": "heart",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "088_heart_brown": {
+    "name": "brown heart",
+    "shape": "heart",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "089_star_black": {
+    "name": "black star",
+    "shape": "star",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "090_star_red": {
+    "name": "red star",
+    "shape": "star",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "091_star_green": {
+    "name": "green star",
+    "shape": "star",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "092_star_blue": {
+    "name": "blue star",
+    "shape": "star",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "093_star_orange": {
+    "name": "orange star",
+    "shape": "star",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "094_star_purple": {
+    "name": "purple star",
+    "shape": "star",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "095_star_yellow": {
+    "name": "yellow star",
+    "shape": "star",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "096_star_brown": {
+    "name": "brown star",
+    "shape": "star",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "097_arrow_black": {
+    "name": "black arrow",
+    "shape": "arrow",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "098_arrow_red": {
+    "name": "red arrow",
+    "shape": "arrow",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "099_arrow_green": {
+    "name": "green arrow",
+    "shape": "arrow",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "100_arrow_blue": {
+    "name": "blue arrow",
+    "shape": "arrow",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "101_arrow_orange": {
+    "name": "orange arrow",
+    "shape": "arrow",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "102_arrow_purple": {
+    "name": "purple arrow",
+    "shape": "arrow",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "103_arrow_yellow": {
+    "name": "yellow arrow",
+    "shape": "arrow",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "104_arrow_brown": {
+    "name": "brown arrow",
+    "shape": "arrow",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "105_cross_black": {
+    "name": "black cross",
+    "shape": "cross",
+    "color": "black",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "106_cross_red": {
+    "name": "red cross",
+    "shape": "cross",
+    "color": "red",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "107_cross_green": {
+    "name": "green cross",
+    "shape": "cross",
+    "color": "green",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "108_cross_blue": {
+    "name": "blue cross",
+    "shape": "cross",
+    "color": "blue",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "109_cross_orange": {
+    "name": "orange cross",
+    "shape": "cross",
+    "color": "orange",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "110_cross_purple": {
+    "name": "purple cross",
+    "shape": "cross",
+    "color": "purple",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "111_cross_yellow": {
+    "name": "yellow cross",
+    "shape": "cross",
+    "color": "yellow",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "112_cross_brown": {
+    "name": "brown cross",
+    "shape": "cross",
+    "color": "brown",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  }
+}

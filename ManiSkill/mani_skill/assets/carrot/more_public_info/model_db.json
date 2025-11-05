@@ -1,0 +1,142 @@
+{
+  "001_disabled": {
+    "name": "disabled access",
+    "sign": "disabled access",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "002_escalator": {
+    "name": "escalator",
+    "sign": "escalator",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "003_fire_escape": {
+    "name": "fire escape",
+    "sign": "fire escape",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "004_hairdresser": {
+    "name": "hairdresser",
+    "sign": "hairdresser",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "005_information": {
+    "name": "information",
+    "sign": "information",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "006_no_dogs": {
+    "name": "no dogs",
+    "sign": "no dogs",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "007_no_entry": {
+    "name": "no entry",
+    "sign": "no entry",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "008_no_parking": {
+    "name": "no parking",
+    "sign": "no parking",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "009_no_smoking": {
+    "name": "no smoking",
+    "sign": "no smoking",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "010_recycle": {
+    "name": "recycle",
+    "sign": "recycle",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "011_stairs": {
+    "name": "stairs",
+    "sign": "stairs",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "012_taxi": {
+    "name": "taxi",
+    "sign": "taxi",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "013_telephone": {
+    "name": "telephone",
+    "sign": "telephone",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "014_toilets": {
+    "name": "toilets",
+    "sign": "toilets",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  }
+}

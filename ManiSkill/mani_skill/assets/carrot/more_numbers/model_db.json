@@ -1,0 +1,90 @@
+{
+  "001_eight": {
+    "name": "eight",
+    "sign": "eight",
+    "number": 8,
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "002_five": {
+    "name": "five",
+    "sign": "five",
+    "number": 5,
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "003_four": {
+    "name": "four",
+    "sign": "four",
+    "number": 4,
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "004_one": {
+    "name": "one",
+    "sign": "one",
+    "number": 1,
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "005_seven": {
+    "name": "seven",
+    "sign": "seven",
+    "number": 7,
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "006_six": {
+    "name": "six",
+    "sign": "six",
+    "number": 6,
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "007_three": {
+    "name": "three",
+    "sign": "three",
+    "number": 3,
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "008_two": {
+    "name": "two",
+    "sign": "two",
+    "number": 2,
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  }
+}

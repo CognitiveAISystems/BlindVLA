@@ -1,0 +1,172 @@
+{
+  "001_any_solvent": {
+    "name": "any solvent icon",
+    "icon": "any solvent",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "002_bleach_allowed": {
+    "name": "bleach allowed icon",
+    "icon": "bleach allowed",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "003_cold_wash": {
+    "name": "cold wash icon",
+    "icon": "cold wash",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "004_do_not_bleach": {
+    "name": "do not bleach icon",
+    "icon": "do not bleach",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "005_Do_not_dryclean": {
+    "name": "do not dryclean icon",
+    "icon": "do not dryclean",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "006_Do_not_iron": {
+    "name": "do not iron icon",
+    "icon": "do not iron",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "007_do_not_wash": {
+    "name": "do not wash icon",
+    "icon": "do not wash",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "008_Dryclean": {
+    "name": "dryclean icon",
+    "icon": "dryclean",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "009_hand_wash": {
+    "name": "hand wash icon",
+    "icon": "hand wash",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "010_hot_wash": {
+    "name": "hot wash icon",
+    "icon": "hot wash",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "011_iron": {
+    "name": "iron icon",
+    "icon": "iron",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "012_machinewash_delicate": {
+    "name": "machine wash delicate icon",
+    "icon": "machine wash delicate",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "013_machinewash_permanentpress": {
+    "name": "machine wash permanent press icon",
+    "icon": "machine wash permanent press",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "014_machinewash": {
+    "name": "machine wash icon",
+    "icon": "machine wash",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "015_non_chlorine_bleach": {
+    "name": "non chlorine bleach icon",
+    "icon": "non chlorine bleach",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "016_warm_wash": {
+    "name": "warm wash icon",
+    "icon": "warm wash",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  },
+  "017_wet_cleaning": {
+    "name": "wet cleaning icon",
+    "icon": "wet cleaning",
+    "bbox": {
+      "min": [-0.055, -0.055, -0.003],
+      "max": [0.055, 0.055, 0.003]
+    },
+    "scales": [1.0],
+    "density": 6368
+  }
+}
