@@ -12,7 +12,9 @@ To address the degradation of visual-language (VL) representations during VLA su
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.25616) [![Project-Page](https://img.shields.io/badge/Project--Page-%2300B4AB?style=for-the-badge&logo=logolol&logoColor=white&labelColor=000000)](https://blind-vla-paper.github.io) [![HF Papers](https://img.shields.io/badge/Model--Dataset-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/collections/tttonyalpha/dont-blind-your-vla)
+[![Paper](https://img.shields.io/badge/paper-A42C25?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2510.25616) [![Project-Page](https://img.shields.io/badge/Project--Page-%2300B4AB?style=for-the-badge&logo=logolol&logoColor=white&labelColor=000000)](https://blind-vla-paper.github.io) 
+[![Twitter](https://img.shields.io/badge/post-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/judokach/status/1988616551516225859?s=20) 
+[![HF Papers](https://img.shields.io/badge/Model--Dataset-%23FFD14D?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/collections/tttonyalpha/dont-blind-your-vla)
 
 </div>
 
