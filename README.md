@@ -32,10 +32,11 @@ To address the degradation of visual-language (VL) representations during VLA su
 
 ## TODO List
 
-- [x] Release code for OpenVLA Visual Representation Alignmnet.
-- [x] Release the dataset and warmupt checkpoint.
-- [x] Release the VL-Think Task Suite
-- [ ] Support more VLA models
+- [x] Code for OpenVLA Visual Representation Alignmnet.
+- [x] Dataset and warmupt checkpoint.
+- [x] VL-Think Task Suite.
+- [ ] Vizualization code.
+- [ ] Code for aligning pi0.5 on real robot.
 
 
 <h2 id="installation">⚙️ Installation</h2>
