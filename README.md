@@ -36,7 +36,7 @@ To address the degradation of visual-language (VL) representations during VLA su
 - [x] Code for OpenVLA Visual Representation Alignmnet.
 - [x] Dataset and warmupt checkpoint.
 - [x] VL-Think Task Suite.
-- [ ] Vizualization code.
+- [x] Vizualization code.
 - [ ] Code for aligning pi0.5 on real robot.
 
 
@@ -168,9 +168,6 @@ python vizualize_tsne.py \
   --tsne_max_iter 1000 \
   --save_path runs/tsne_openvla_coco.png
 ```
-
-
-
 
 <h2 id="vl-think">📊 VL-Think</h2>
 
