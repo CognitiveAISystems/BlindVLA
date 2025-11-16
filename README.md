@@ -136,7 +136,7 @@ torchrun --standalone --nnodes 1 --nproc-per-node 1 vla-scripts/finetune.py \
 
 <h2 id="vl-anal">🔍 VL Representations Analysis</h2>
 
-<!-- <img width="4456" height="1564" alt="att_sink_rep_collapse" src="figs/att_sink_rep_collapse.png" /> -->
+<img width="4456" height="1564" alt="att_sink_rep_collapse" src="figs/att_sink_rep_collapse.png" />
 
 We investigate how VL representations evolve in VLA models after action fine-tuning. Specifically, we ask whether semantic grounding and knowledge transfer from pretrained VLMs are preserved. To assess degradation we probed VL representations of OpenVLA after naive fine-tuning on robotic data and observed three major problems: (1) **Attention sink** - the attention maps become diffuse, noisy, and weakly correlated
 with the target object referenced in instruction, (2) **Representation collapse** - action fine-tuning disrupts the structured organization of VL representations, and (3) **Domain forgetting** - VLA models lose knowledge about domains that are absent in robotics fine-tuning datasets.
