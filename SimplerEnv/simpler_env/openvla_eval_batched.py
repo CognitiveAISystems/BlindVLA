@@ -1,6 +1,3 @@
-# ===============================
-# Standard Library Imports
-# ===============================
 import os
 import re
 import gc
@@ -61,17 +58,28 @@ class Args:
 
     # other
     render_info: bool = False
-
     obj_set: str = 'test'
     exp_folder_note: str = 'vla_eval'
     device_id: int = 0
 
-    # don't change this 
+    vla_temperature_eval: float = 0.6
+    buffer_inferbatch: int = 32
+
+    # ignore this
     alg_name: str = "ppo"  # ppo, grpo
     alg_grpo_fix: bool = True
     alg_gradient_accum: int = 20
     alg_ppo_epoch: int = 1
     alg_entropy_coef: float = 0.0
+    vla_lr: float = 1e-4
+    vla_vhlr: float = 3e-3
+    vla_optim_beta1: float = 0.9
+    vla_optim_beta2: float = 0.999
+    vla_temperature: float = 1.0
+
+    buffer_minibatch: int = 8
+    buffer_gamma: float = 0.99
+    buffer_lambda: float = 0.95
 
 
 
