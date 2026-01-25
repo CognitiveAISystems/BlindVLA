@@ -199,25 +199,26 @@ You can run OpenVLA evaluation using this script:
 
 openvla_path="tttonyalpha/openvla-7b-warmup-checkpoint_merged_002000_lora_002000"
 lora_load_path="<YOUR_PROJECT_DIR>/<PATH_TO_LORA>"  # or set empry 
+GPU="0, "
 
 for seed in 0 1 2 4 5 6 7 8; do
     for env_id in \
 
-        ### OOD Generalization envs: 
+        ### OOD Generalization envs: <==== remove this line before evaluation!
         "PutOnPlateInScene25VisionImage-v1" "PutOnPlateInScene25VisionTexture03-v1" "PutOnPlateInScene25VisionTexture05-v1" \
         "PutOnPlateInScene25VisionWhole03-v1"  "PutOnPlateInScene25VisionWhole05-v1" \
         "PutOnPlateInScene25Carrot-v1" "PutOnPlateInScene25Plate-v1" "PutOnPlateInScene25Instruct-v1" \
         "PutOnPlateInScene25MultiCarrot-v1" "PutOnPlateInScene25MultiPlate-v1" \
         "PutOnPlateInScene25Position-v1" "PutOnPlateInScene25EEPose-v1" "PutOnPlateInScene25PositionChangeTo-v1"
 
-        ### VL-Think envs
-        "PutOnShapeInSceneMultiColor-v1" "PutOnColorInSceneMulti-v1"
-        "PutOnSignTrafficInSceneMulti-v1" "PutOnLaundryIconInSceneMulti-v1"
-        "PutOnWeatherIconInSceneMulti-v1" "PutOnArrowSignInSceneMulti-v1"
+        ### VL-Think envs: <==== remove this line before evaluation!
+        "PutOnShapeInSceneMultiColor-v1" "PutOnColorInSceneMulti-v1" \
+        "PutOnSignTrafficInSceneMulti-v1" "PutOnLaundryIconInSceneMulti-v1" \
+        "PutOnWeatherIconInSceneMulti-v1" "PutOnArrowSignInSceneMulti-v1" \
         "PutOnPublicInfoSignInSceneMulti-v1" "PutOnNumberInSceneParity-v1" ;
          do
       
-      CUDA_VISIBLE_DEVICES=0 XLA_PYTHON_CLIENT_PREALLOCATE=false \
+      CUDA_VISIBLE_DEVICES=$GPU XLA_PYTHON_CLIENT_PREALLOCATE=false \
       python ./SimplerEnv/simpler_env/openvla_eval_batched.py \
         --vla_path="$openvla_path" --vla_unnorm_key="sft" \
         --vla_load_path="${lora_load_path}" \
