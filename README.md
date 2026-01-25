@@ -18,6 +18,13 @@ To address the degradation of visual-language (VL) representations during VLA su
 
 </div>
 
+<br/>
+
+## News:
+- **[2025/12/22]** Our paper has been accepted for ⭐ Oral presentation at AAMAS 2026! 🎉
+- **[2025/10/29]** Our paper won the 🥇 **first place** in the HF [daily papers](https://huggingface.co/papers/2510.25616)!
+
+<br/>
 
 <!-- <div align="center"> -->
 
